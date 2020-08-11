@@ -7,14 +7,14 @@ The code presented here may help those who want to learn more about parallel alg
 ## Table of Contents
 
 * [Getting Started](#getting-started)
-* [When can parallel programming help us?](#when-can-parallel-programming-help-us?)
-* [Why did Parallel Programming come about?](#why-did-parallel-programming-come-about?)
+* [When can parallel programming help us?](#when-can-parallel-programming-help-us)
+* [Why did Parallel Programming come about?](#why-did-parallel-programming-come-about)
 * [Use Threads with Care](#use-threads-with-care)
-* [Concepts to remember](#)
-* [Understanding the Codes](#)
-* [Contributions](#)
-* [Author](#)
-* [License](#)
+* [Concepts to remember](#concepts-to-remember)
+* [Understanding the Codes](#understanding-the-codes)
+* [Contributions](#contributions)
+* [Author](#author)
+* [License](#license)
 * [Acknowledgments](#acknowledgments)
 * [References](#references)
 
