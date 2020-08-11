@@ -35,3 +35,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Acknowledgments
 
 * Euclides da Cunha by encouragement - https://github.com/euclidescunha
+
+## When can parallel programming help us?
+
+## Why did Parallel Programming come about?
+
+## Use Threads with Care
+
+## Concepts to remember
+
+## Understanding the Codes
+
+## References
