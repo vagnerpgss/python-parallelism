@@ -38,6 +38,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## When can parallel programming help us?
 
+I / O Bound:
+* Webscraping
+* Disk read and write
+* Data sharing between programs
+* Network communications
+
+CPU Bound:
+* Calculations
+* Text formatting
+* Image rescheduling
+* Data analysis
+
 ## Why did Parallel Programming come about?
 
 ## Use Threads with Care
