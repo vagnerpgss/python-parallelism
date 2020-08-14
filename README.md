@@ -104,11 +104,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## References
 
-[Fluent Python Support files for the O'Reilly book by Luciano Ramalho](https://github.com/fluentpython)
-[multiprocessing — Process-based parallelism](https://docs.python.org/3.7/library/multiprocessing.html)
-[threading — Thread-based parallelism](https://docs.python.org/3.7/library/threading.html)
-[asyncio — Asynchronous I/O](https://docs.python.org/3.7/library/asyncio.html)
-[Python modules for simulating and manipulating VLBI data](https://github.com/achael/eht-imaging)
-[Parallelism in One Line](https://chriskiehl.com/article/parallelism-in-one-line)
-[Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
-[Improve Your Python Skills](https://dbader.org/blog/)
+[Fluent Python Support files for the O'Reilly book by Luciano Ramalho](https://github.com/fluentpython)  
+[multiprocessing — Process-based parallelism](https://docs.python.org/3.7/library/multiprocessing.html)  
+[threading — Thread-based parallelism](https://docs.python.org/3.7/library/threading.html)  
+[asyncio — Asynchronous I/O](https://docs.python.org/3.7/library/asyncio.html)  
+[Python modules for simulating and manipulating VLBI data](https://github.com/achael/eht-imaging)  
+[Parallelism in One Line](https://chriskiehl.com/article/parallelism-in-one-line)  
+[Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)  
+[Improve Your Python Skills](https://dbader.org/blog/)  
